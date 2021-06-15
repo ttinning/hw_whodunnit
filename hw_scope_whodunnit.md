@@ -130,7 +130,7 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 ```
-THE MURDER IS MR. GREEN
+<!-- THE MURDER IS MR. GREEN --> THE MURDERER IS MRS. WHITE
 
 #### Episode 7
 
